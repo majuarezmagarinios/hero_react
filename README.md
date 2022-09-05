@@ -11,8 +11,8 @@ CURSO
 
 CONTENIDO DEL PROYECTO
 * Login
-* Aplicacion que muestra todos los personajes de DC y Marvel.
-* Cards con informacion de cada héroe.
+* Aplicación que muestra todos los personajes de DC y Marvel.
+* Cards con información de cada héroe.
 * Buscador de héroes.
 *  Logout
 <br><br>
